@@ -1,0 +1,14 @@
+**/.git
+**/.svn
+**/.hg
+**/node_modules
+
+build
+coverage
+
+*.vue
+*.js
+*.cjs
+*.ts
+*.css
+*.scss
